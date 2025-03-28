@@ -45,6 +45,18 @@ This project demonstrates the application of **Natural Language Processing (NLP)
 4. View sentiment predictions and comparison plots
 
 ---
+## 📊 Sentiment Analysis Comparison (Final Result)
+The following chart shows the sentiment distribution of chatbot messages as predicted by:
+
+- 🧠 **TextBlob** – rule-based model
+- 🤖 **LinearSVC** – machine learning classifier (scikit-learn)
+- 🔬 **LSTM** – deep learning model (Keras with IMDB)
+
+![Sentiment Comparison Chart]:https://github.com/richapatel93/Sentiment-Analysis-of-Chatbot-Conversations-using-TextBlob-SVM-LSTM/blob/main/Screenshot%202025-03-27%20223619.png
+:https://github.com/richapatel93/Sentiment-Analysis-of-Chatbot-Conversations-using-TextBlob-SVM-LSTM/blob/main/hi.png
+
+
+
 
 ## 📌 Reflection Highlights
 
